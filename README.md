@@ -20,6 +20,7 @@ Comparison of n-body integrators, f.e. Mercury6, Rebound, etc
     in the root.
     
     The results show good, almost perfect accordance for planets and A309239.
+    (NOTE: some .aei data values are truncated to 5-6 decimals while .dat values provide more digits)
     
     For Apophis the difference in semimajor axis values(*) is 1e-12 before encounter-2029,
     1e-7 - 1e-8 after encounter and 1e-5 after 100 years of integration.
